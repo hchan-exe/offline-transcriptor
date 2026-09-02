@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+.venv/
+venv/
+Audio Transcript_Output/
+*.md
+!README.md
